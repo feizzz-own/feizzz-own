@@ -1,6 +1,6 @@
-### Hey, feizzz there 👋
+### Hey, Ryhax there 👋
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=feizzz-own&show_icons=true">
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Ryhax&show_icons=true">
 
 - 🔭 I’m currently working on nudt
 - 🌱 I’m currently learning RL、Golang
