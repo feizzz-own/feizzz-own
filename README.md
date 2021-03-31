@@ -10,6 +10,7 @@
 - 😄 Pronouns: he/him
 - 🌱 Preparing for Kaoyan
 
+
 ### Languages and Tools
 
 <p>  
@@ -25,3 +26,10 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 </p>
+
+
+### Repos
+
+<a href="https://ryhax.github.io">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Ryhax&repo=ryhax.github.io&show_icons=true/>
+</a>
