@@ -9,3 +9,19 @@
 - 📫 How to reach me: Github
 - 😄 Pronouns: he/him
 - 🌱 Preparing for Kaoyan
+
+### Languages and Tools
+
+<p>  
+  <!-- Your languages and tools. Be careful with the alignment. 
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org
+  example: <code><img width="10%" src="url"></code>
+  -->
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+</p>
