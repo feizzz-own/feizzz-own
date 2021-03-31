@@ -31,5 +31,5 @@
 ### Repos
 
 <a href="https://ryhax.github.io">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Ryhax&repo=ryhax.github.io&show_icons=true/>
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Ryhax&repo=ryhax.github.io&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 </a>
